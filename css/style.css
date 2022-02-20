@@ -17,6 +17,21 @@ h6 {
     color: #414141;
 }
 
+
+.deep2neuron
+{
+    color: white;
+    transition: .3s;
+}
+.deep2neuron:hover,
+.deep2neuron:active,
+.deep2neuron:focus {
+    color: #b1b5f2;
+    outline: none;
+    text-decoration: none;
+}
+
+
 a {
     color: #313131;
     transition: .3s;
@@ -208,7 +223,9 @@ a:focus {
 
     .navbar-light .navbar-nav .nav-link:hover,
     .navbar-light .navbar-nav .nav-link.active {
-        color:#00077A;
+        color:#0b18e3;
+        /*font-weight: 120%;*/
+
     }
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
