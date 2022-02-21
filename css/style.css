@@ -1521,7 +1521,7 @@ a:focus {
 
 .footer .footer-menu p {
     color: #ffffff;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 600;
     line-height: 20px;
     padding: 0 15px;
@@ -1605,7 +1605,7 @@ a:focus {
     }
 
     .footer .footer-menu p {
-        font-size: 16px;
+        font-size: 12px;
         line-height: 16px;
         padding: 0 5px;
     }
